@@ -1,4 +1,4 @@
-![GitHub Logo](/images/banner.png)
+![Banner](/images/banner.png)
 
 # Certificate in Data Analytics for Business
 
